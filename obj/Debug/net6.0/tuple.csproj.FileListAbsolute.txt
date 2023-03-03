@@ -1,0 +1,15 @@
+/Users/gulernurdonmez/visual studio/C#/tuple/bin/Debug/net6.0/tuple
+/Users/gulernurdonmez/visual studio/C#/tuple/bin/Debug/net6.0/tuple.deps.json
+/Users/gulernurdonmez/visual studio/C#/tuple/bin/Debug/net6.0/tuple.runtimeconfig.json
+/Users/gulernurdonmez/visual studio/C#/tuple/bin/Debug/net6.0/tuple.dll
+/Users/gulernurdonmez/visual studio/C#/tuple/bin/Debug/net6.0/tuple.pdb
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.csproj.AssemblyReference.cache
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.AssemblyInfoInputs.cache
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.AssemblyInfo.cs
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.csproj.CoreCompileInputs.cache
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.dll
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/refint/tuple.dll
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.pdb
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/tuple.genruntimeconfig.cache
+/Users/gulernurdonmez/visual studio/C#/tuple/obj/Debug/net6.0/ref/tuple.dll
